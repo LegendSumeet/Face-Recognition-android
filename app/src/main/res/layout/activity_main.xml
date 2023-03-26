@@ -52,7 +52,6 @@
 
         </androidx.camera.view.PreviewView>
     </FrameLayout>
-
     <ImageButton
         android:id="@+id/imageButton"
         android:layout_width="wrap_content"
